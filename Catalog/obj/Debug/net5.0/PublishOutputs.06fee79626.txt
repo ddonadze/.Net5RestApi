@@ -1,0 +1,11 @@
+C:\Users\ddonadze\Desktop\ecri\apiCore5\Catalog\bin\Debug\net5.0\publish\Catalog.exe
+C:\Users\ddonadze\Desktop\ecri\apiCore5\Catalog\bin\Debug\net5.0\publish\appsettings.Development.json
+C:\Users\ddonadze\Desktop\ecri\apiCore5\Catalog\bin\Debug\net5.0\publish\appsettings.json
+C:\Users\ddonadze\Desktop\ecri\apiCore5\Catalog\bin\Debug\net5.0\publish\Catalog.dll
+C:\Users\ddonadze\Desktop\ecri\apiCore5\Catalog\bin\Debug\net5.0\publish\Catalog.deps.json
+C:\Users\ddonadze\Desktop\ecri\apiCore5\Catalog\bin\Debug\net5.0\publish\Catalog.runtimeconfig.json
+C:\Users\ddonadze\Desktop\ecri\apiCore5\Catalog\bin\Debug\net5.0\publish\Catalog.pdb
+C:\Users\ddonadze\Desktop\ecri\apiCore5\Catalog\bin\Debug\net5.0\publish\Microsoft.OpenApi.dll
+C:\Users\ddonadze\Desktop\ecri\apiCore5\Catalog\bin\Debug\net5.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ddonadze\Desktop\ecri\apiCore5\Catalog\bin\Debug\net5.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ddonadze\Desktop\ecri\apiCore5\Catalog\bin\Debug\net5.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
